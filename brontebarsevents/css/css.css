@@ -1,0 +1,45 @@
+/* navigation and banner */
+    .navbar {
+        width: 690px;
+    }
+
+    .mr-auto {
+        margin: 0;
+    }
+
+    .nav-holder {
+        position: fixed;
+        top: 0;
+        z-index: 1000;
+    }
+
+    .logo-holder {
+        width: 200px;
+        z-index: 1000;
+        position: absolute;
+    }
+
+    .logo-holder img {
+        height: 120px;
+    }
+
+    .bg-light {
+        background-color: #cca652!important;
+    }
+
+    .navigation {
+        margin-left: 28em;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-family: 'Proxima Nova';
+        font-size: 1em;
+        padding-left: 1em;
+        color: #e5e5df;
+    }
+
+    .nav-link:hover {
+        color: #025380 !important;
+        background-color: #cca652;
+    }
+/* navigation and banner end */
