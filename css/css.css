@@ -1,0 +1,33 @@
+/* navigation and banner */
+
+    .logo-holder img {
+        height: 100px;
+        position: fixed;
+    }
+    
+    .bg-light {
+        background-color: #cca652!important;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-family: 'Proxima Nova';
+        font-size: 1em;
+        padding-left: 1em;
+        color: #e5e5df;
+    }
+
+    .nav-link:hover {
+        color: #025380 !important;
+        background-color: #cca652;
+    }
+/* navigation and banner end */
+
+/* fonts */
+    h1 {
+        font-family: 'Proxima Nova';
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 2em;
+    }
+/* fonts end */
